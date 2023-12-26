@@ -1,0 +1,34 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "This is react-handson",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trapti-lab/React-handson.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Trapti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trapti-lab/React-handson/issues"
+  },
+  "homepage": "https://github.com/trapti-lab/React-handson#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last two version of chrome",
+    "last two version of safari"
+  ]
+}
